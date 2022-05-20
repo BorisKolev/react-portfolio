@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.a2285b51.css",
+    "main.js": "/react-portfolio/static/js/main.5da60d03.js",
+    "static/media/ProgrammingViewer.png": "/react-portfolio/static/media/ProgrammingViewer.8cc8ba168828dc0ef68b.png",
+    "static/media/ME2.jpg": "/react-portfolio/static/media/ME2.edf8601de40662454466.jpg",
+    "static/media/ME1.jpg": "/react-portfolio/static/media/ME1.7a20eef2842c28966e66.jpg",
+    "static/media/Borislav_Kolev_CV.pdf": "/react-portfolio/static/media/Borislav_Kolev_CV.36eb94270f6e75e856b1.pdf",
+    "static/media/bg-texture.jpg": "/react-portfolio/static/media/bg-texture.3bff66c7874f740a8211.jpg",
+    "static/media/LR_Text_Classifier.PNG": "/react-portfolio/static/media/LR_Text_Classifier.ee011d54fd56652c9b68.PNG",
+    "static/media/Compiler.PNG": "/react-portfolio/static/media/Compiler.5bf2c42ee406205fe81d.PNG",
+    "static/media/MambossaSearch.PNG": "/react-portfolio/static/media/MambossaSearch.1ad36fa5484126ffa23c.PNG",
+    "static/media/Snake.png": "/react-portfolio/static/media/Snake.58bf573f8560c020ca40.png",
+    "static/media/Puzzle_Finder.PNG": "/react-portfolio/static/media/Puzzle_Finder.27b61786c75ad8d423e5.PNG",
+    "index.html": "/react-portfolio/index.html",
+    "main.a2285b51.css.map": "/react-portfolio/static/css/main.a2285b51.css.map",
+    "main.5da60d03.js.map": "/react-portfolio/static/js/main.5da60d03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2285b51.css",
+    "static/js/main.5da60d03.js"
+  ]
+}
