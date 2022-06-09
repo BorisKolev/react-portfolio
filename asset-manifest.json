@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.a2285b51.css",
-    "main.js": "/react-portfolio/static/js/main.5da60d03.js",
+    "main.js": "/react-portfolio/static/js/main.64d029fc.js",
     "static/media/ProgrammingViewer.png": "/react-portfolio/static/media/ProgrammingViewer.8cc8ba168828dc0ef68b.png",
     "static/media/ME2.jpg": "/react-portfolio/static/media/ME2.edf8601de40662454466.jpg",
     "static/media/ME1.jpg": "/react-portfolio/static/media/ME1.7a20eef2842c28966e66.jpg",
-    "static/media/Borislav_Kolev_CV.pdf": "/react-portfolio/static/media/Borislav_Kolev_CV.36eb94270f6e75e856b1.pdf",
+    "static/media/Borislav_Kolev_CV.pdf": "/react-portfolio/static/media/Borislav_Kolev_CV.69028013ed095508a8bf.pdf",
     "static/media/bg-texture.jpg": "/react-portfolio/static/media/bg-texture.3bff66c7874f740a8211.jpg",
     "static/media/LR_Text_Classifier.PNG": "/react-portfolio/static/media/LR_Text_Classifier.ee011d54fd56652c9b68.PNG",
     "static/media/Compiler.PNG": "/react-portfolio/static/media/Compiler.5bf2c42ee406205fe81d.PNG",
@@ -14,10 +14,10 @@
     "static/media/Puzzle_Finder.PNG": "/react-portfolio/static/media/Puzzle_Finder.27b61786c75ad8d423e5.PNG",
     "index.html": "/react-portfolio/index.html",
     "main.a2285b51.css.map": "/react-portfolio/static/css/main.a2285b51.css.map",
-    "main.5da60d03.js.map": "/react-portfolio/static/js/main.5da60d03.js.map"
+    "main.64d029fc.js.map": "/react-portfolio/static/js/main.64d029fc.js.map"
   },
   "entrypoints": [
     "static/css/main.a2285b51.css",
-    "static/js/main.5da60d03.js"
+    "static/js/main.64d029fc.js"
   ]
 }
