@@ -46,14 +46,15 @@ const About = () => {
           </div>
 
           <p>
-          Junior Software Engineer at ASM-Assembly-Systems (Weymouth, UK) and Computer Science BSc (Hons) (1st)
-          including Placement Year degree at the University of Essex, UK. <br></br>
+            Junior Software Engineer at ASM-Assembly-Systems (Weymouth, UK) and graduated with 
+            Computer Science BSc (Hons) (1st) including Placement Year degree at the University of Essex, UK. <br></br>
 
-          From an early age I have been interested in Software development, spent most of my time and energy trying to grasp it under the hood.
-          I am not interested in a specific language or framework;
-          I prefer to spend my time implementing new designs, reading codebases, models, and algorithms.
-          Computer science taught me how to face problems and find solutions, thus also built my character.
-          Contradictory to the stereotype, I do believe, I have proper communicative and time management skills.
+            From an early age I have been interested in Software development, spent most of my time and 
+            energy trying to grasp it under the hood. I am not interested in a specific language or framework; I 
+            prefer to spend my time implementing new designs, improving codebases, models, and algorithms.
+            Computer science taught me how to face problems and find solutions, thus also built my character. 
+            Contradictory to the stereotype, I do believe, I have proper communicative and time management
+            skills.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
